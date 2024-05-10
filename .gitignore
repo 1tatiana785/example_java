@@ -1,0 +1,9 @@
+.idea/
+target/
+out/
+ExtentReports/
+*.log
+allure-results
+*.allure
+src/resources/ScreenShot/*
+test-output/*

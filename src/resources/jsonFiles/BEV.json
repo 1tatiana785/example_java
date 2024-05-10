@@ -1,0 +1,156 @@
+{
+  "noEmailsInFile": {
+    "En": "no emails found in the file",
+    "Br": "nenhum e-mail encontrado no arquivo",
+    "Zh": "在文件中未找到邮箱",
+    "Ua": "файл пустий",
+    "Es": "no se han encontrado correos electrónicos en el archivo."
+  },
+  "premiumFeature": {
+    "En": "You can verify emails from files in premium only. Upgrade your plan to verify up to 100,000 emails at a time and unlock more Snov.io features that'll boost your sales:",
+    "Br": "Você só pode verificar e-mails de arquivos em planos premium. Faça upgrade do seu plano para verificar até 100.000 e-mails de uma só vez e desbloquear mais recursos do Snov.io que aumentarão suas vendas:",
+    "Zh": "高级套餐包含从本地文件中验证邮箱的功能。升级套餐即可同时验证最多 100,000 个邮箱，解锁更多 Snov.io 功能，实现销售增长：",
+    "Ua": "Опція верифікації списків email-адрес недоступна в безплатній версії. Переходьте на преміум, щоб верифікувати до 100 000 email-адрес за раз і отримати доступ до топових функцій, що допоможуть вам збільшити продажі:",
+    "Es": "Solo puedes consultar los emails de archivo en los planes premium. Actualiza tu plan para verificar hasta 100.000 emails a la vez y desbloquear más funciones de Snov.io que aumentarán tus ventas:"
+  },
+  "YouAreOutOfCredits": {
+    "En": "Upgrade your plan to get more credits and verify up to 100,000 emails at a time! Plus, unlock more Snov.io features that'll boost your sales:",
+    "Br": "Faça upgrade do seu plano para ganhar mais créditos e verificar até 100.000 e-mails de uma só vez! Além disso, desbloqueie mais recursos do Snov.io que aumentarão suas vendas:",
+    "Zh": "升级套餐即可获得更多点数，同时验证最多 100,000 个邮箱！您还将解锁更多 Snov.io 功能，实现销售增长：",
+    "Ua": "Переходьте на преміум, щоб отримати більше кредитів і верифікувати до 100 000 email-адрес за раз! Ба більше, ви отримаєте доступ до топових функцій, що допоможуть вам збільшити продажі:",
+    "Es": "¡Actualiza tu plan para ganar más créditos y verificar hasta 100.000 emails a la vez! Además, desbloquea más funciones de Snov.io que impulsarán tus ventas:"
+  },
+  "DailyLimitReached": {
+    "En": "You've hit your daily limit of 10 credits. Upgrade your plan to remove the limit and verify up to 100,000 emails at a time!",
+    "Br": "Você alcançou seu limite diário de 10 créditos. Faça upgrade do seu plano para remover o limite e verificar até 100.000 e-mails de uma só vez!",
+    "Zh": "您 10 个信用点数的每日限额已用完。升级套餐即可取消限制，同时验证最多 100,000 个邮箱！",
+    "Ua": "Ви досягли денного ліміту в 10 кредитів. Переходьте на преміум, щоб зняти ці обмеження й верифікувати до 100 000 email-адрес за раз!",
+    "Es": "Alcanzaste el límite diario de 10 créditos. ¡Actualiza tu plan para eliminar el límite y verificar hasta 100.000 emails a la vez!"
+  },
+  "canProcessUpTo100kLines": {
+    "En": "Bulk Email Verification tool can process up to 100,000 lines per search",
+    "Br": "A ferramenta de Verificação de e-mails em massa pode processar até 100 mil linhas por pesquisa",
+    "Zh": "批量邮箱地址验证工具每次搜索最多能够处理 100,000 条数据",
+    "Ua": "Інструмент «Перевірка списку адрес» може опрацьовувати до 100 000 рядків за раз",
+    "Es": "La herramienta de verificación de correo electrónico masivo puede procesar hasta 100.000 líneas por búsqueda"
+  },
+  "invalidFileFormat": {
+    "En": "Invalid file format",
+    "Br": "Formato de arquivo inválido",
+    "Zh": "文件格式无效",
+    "Ua": "Некоректний формат файлу",
+    "Es": "Formato de archivo inválido"
+  },
+  "fileTypeMustBeCsvXlsTxt": {
+    "En": "File format not supported. Upload one of the following files: CSV, XLS, XLSX, TXT.",
+    "Br": "Formato de arquivo não compatível. Faça upload de um dos seguintes tipos de arquivo: CSV, XLS, XLSX, TXT.",
+    "Zh": "不支持的文件格式。 上传以下文件之一：CSV、XLS、XLSX、TXT。",
+    "Ua": "Система не підтримує файли в такому форматі. Завантажте файл CSV, XLS, XLSX або TXT.",
+    "Es": "Formato de archivo no compatible. Sube uno de los siguientes tipos de archivos: CSV, XLS, XLSX, TXT."
+  },
+  "fileIsTooLarge": {
+    "En": "File is too large",
+    "Br": "O arquivo é grande demais",
+    "Zh": "文件太大",
+    "Ua": "Файл занадто великий",
+    "Es": "El archivo es demasiado grande"
+  },
+  "maximumFileSize": {
+    "En": "Please choose a file under 10 MB.",
+    "Br": "Escolha um arquivo menor que 10 MB.",
+    "Zh": "请选择 10 MB 以下的文件。",
+    "Ua": "Розмір файлу не повинен перевищувати 10 МБ.",
+    "Es": "Elige un archivo de menos de 10 MB."
+  },
+  "verifyEmailsBttn": {
+    "En": "Verify emails",
+    "Br": "Verificar e-mails",
+    "Zh": "验证邮箱地址",
+    "Ua": "Перевірити адреси",
+    "Es": "Verificar emails"
+  },
+  "emailAddresses": {
+    "En": "Email addresses for verification",
+    "Br": "Endereços de e-mail para verificação",
+    "Zh": "用于验证的邮箱地址",
+    "Ua": "Email-адреси для верифікації",
+    "Es": "Direcciones de correo electrónico para verificación"
+  },
+  "listName": {
+    "En": "Prospect list name",
+    "Br": "Nome da lista de clientes potenciais",
+    "Zh": "潜在客户列表名称",
+    "Ua": "Назва списку контактів",
+    "Es": "Nombre de la lista de prospectos"
+  },
+  "addManuallyBttn": {
+    "En": "Add manually",
+    "Br": "Adicionar manualmente",
+    "Zh": "手动添加",
+    "Ua": "Додати вручну",
+    "Es": "Añadir manualmente"
+  },
+  "chooseFileBttn": {
+    "En": "Choose file",
+    "Br": "Escolher arquivo",
+    "Zh": "选择文件",
+    "Ua": "Вибрати файл",
+    "Es": "Elegir archivo"
+  },
+  "addFromFileTab": {
+    "En": "Add from file",
+    "Br": "Adicionar do arquivo",
+    "Zh": "从文件上传",
+    "Ua": "Завантажити список",
+    "Es": "Añadir del archivo"
+  },
+  "textLists": {
+    "En": "LISTS",
+    "Br": "LISTAS",
+    "Zh": "列表",
+    "Ua": "СПИСКИ",
+    "Es": "LISTAS"
+  },
+  "textAdded": {
+    "En": "ADDED",
+    "Br": "ADICIONADO",
+    "Zh": "已添加",
+    "Ua": "ДАТА ДОДАВАННЯ",
+    "Es": "AÑADIDO"
+  },
+  "textStatus": {
+    "En": "STATUS",
+    "Br": "STATUS",
+    "Zh": "状态",
+    "Ua": "СТАТУС",
+    "Es": "ESTADO"
+  },
+  "textProgress": {
+    "En": "PROGRESS",
+    "Br": "ANDAMENTO",
+    "Zh": "进度",
+    "Ua": "ПРОГРЕС",
+    "Es": "PROGRESO"
+  },
+  "textListName": {
+    "En": "NAME",
+    "Br": "NOME",
+    "Zh": "姓名",
+    "Ua": "ІМ'Я",
+    "Es": "NOMBRE"
+  },
+  "textPageBEV": {
+    "En": "Verify emails in bulk using our multilayer verification process that includes syntax check, MX record check, and SMTP authentication.",
+    "Br": "Verifique e-mails em massa usando o nosso processo de verificação em várias camadas, que inclui verificação de sintaxe, verificação de registro MX e autenticação SMTP.",
+    "Zh": "使用我们的多层验证流程对邮箱进行批量验证，该流程包括语法检查、MX 记录检查和 SMTP 验证。",
+    "Ua": "Перевіряйте адреси списком. Верифікація передбачає перевірку синтаксису, МХ-запису та аутентифікацію SMTP.",
+    "Es": "Verifica correos electrónicos de forma masiva mediante nuestro proceso de verificación multicapa que incluye la comprobación de la sintaxis, la comprobación del registro MX y la autenticación SMTP."
+  },
+  "description": {
+    "En": "Bulk Email Verification tool supports CSV, XLS, XLSX and TXT file formats and can process up to 100,000 lines per search.",
+    "Br": "A ferramenta de verificação de e-mail em massa oferece suporte aos formatos de arquivo CSV, XLS, XLSX e TXT e pode processar até 100.000 linhas por pesquisa.",
+    "Zh": "批量邮箱地址验证工具支持 CSV、XLS、XLSX 和 TXT 文件格式，每次搜索最多可处理 100,000 行。",
+    "Ua": "Інструмент масової верифікації підтримує файли у форматах CSV, XLS, XLSX і TXT і може опрацьовувати до 100 000 рядків за раз.",
+    "Es": "La herramienta de verificación de correo electrónico masivo admite los formatos de archivo CSV, XLS, XLSX y TXT y puede procesar hasta 100.000 líneas por búsqueda."
+  }
+}

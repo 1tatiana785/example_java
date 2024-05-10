@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SNOVIO API"  parallel="classes" thread-count="1" >
+	<listeners>
+		<listener class-name="core.coreUI.retryMethods.RetryListenerClass"/>
+	</listeners>
+	<test name="API">
+		<classes>
+			<class name="APITest.RegistrationTests"/>
+		</classes>
+	</test>
+</suite>

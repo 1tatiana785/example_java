@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SNOVIO UI" parallel="classes" thread-count="3">
+    <listeners>
+        <listener class-name="core.coreUI.retryMethods.RetryListenerClass"/>
+    </listeners>
+    <test name="Regression">
+        <classes>
+            <class name="Ui.BEVTests"/>
+            <class name="Ui.BEVUploadTests"/>
+            <class name="Ui.Group"/>
+        </classes>
+    </test>
+</suite>
